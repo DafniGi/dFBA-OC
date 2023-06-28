@@ -1,0 +1,35 @@
+#----Termination Status
+ALMOST_LOCALLY_SOLVED
+
+Objective Value
+58.67085322465472
+
+Normalized Integrated Biomass
+37.31524237723044
+
+Sum of growth rates
+7.9953999434728615
+
+Final pDNA amount
+419.62930123650995
+
+Normalized Complementary Slackness
+-14.778578561846711
+
+Complementary Slackness per CTRL interval
+[-12.97, -12.96, -12.93, -12.92, -12.96, -12.9, -12.9, -16.31, -18.88, -22.06]
+
+S0
+30.00000028983845
+
+Control Intervals
+[0.52, 0.52, 0.52, 0.52, 0.52, 0.52, 0.52, 0.52, 0.78, 0.78]
+
+Process End
+5.71
+
+Feed Rates
+[0.005, 0.009, 0.014, 0.024, 0.039, 0.063, 0.104, 0.134, 0.166, 0.215]
+
+Time Elapsed
+91.228278055

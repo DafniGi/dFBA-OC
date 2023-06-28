@@ -20,6 +20,8 @@ With this information we can then try to rank the implementations depending on t
 |------------|-------------|
 | version_01 | pFBA at every CP, CS in the OF
 | version_02 | FBA at every CP, CS in the OF
+| version_03 | pFBA at every FE, CS in the OF
+| version_04 | FBA at every FE, CS in the OF
 
 
 # List of Abbreviations
@@ -29,3 +31,4 @@ With this information we can then try to rank the implementations depending on t
 |CP | collocation point |
 |CS | complementary slackness |
 |OF | objective function |
+|FE | finite element
