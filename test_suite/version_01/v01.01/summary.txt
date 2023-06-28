@@ -1,0 +1,32 @@
+#----Termination Status
+LOCALLY_SOLVED
+
+Objective Value
+56.75806067877461
+
+Sum of growth rates
+11.335997578801084
+
+Final pDNA amount
+432.206682234853
+
+Normalized Complementary Slackness
+-19.38282612401081
+
+Complementary Slackness per CTRL interval
+[[-21.04, -21.04, -21.04], [-21.04, -21.04, -21.04], [-21.04, -21.04, -21.04], [-14.21, -15.93, -16.91], [-17.13, -18.35, -18.86]]
+
+S0
+30.00000029872593
+
+Control Intervals
+[1.23, 1.23, 1.23, 0.82, 1.17]
+
+Process End
+5.68
+
+Feed Rates
+[[0.005, 0.008, 0.013], [0.016, 0.028, 0.042], [0.051, 0.091, 0.139], [0.127, 0.155, 0.179], [0.173, 0.217, 0.255]]
+
+Time Elapsed
+102.334947516

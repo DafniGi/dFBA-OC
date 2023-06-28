@@ -16,4 +16,16 @@ With this information we can then try to rank the implementations depending on t
 
 ## List of Different Implementations
 
-* version_01 ... pFBA every Collocation Point + Complementary Slackness in the Objective
+| Version ID | Description |
+|------------|-------------|
+| version_01 | pFBA at every CP, CS in the OF
+| version_02 | FBA at every CP, CS in the OF
+
+
+# List of Abbreviations
+
+| Abbreviation | Meaning |
+|---|---|
+|CP | collocation point |
+|CS | complementary slackness |
+|OF | objective function |
