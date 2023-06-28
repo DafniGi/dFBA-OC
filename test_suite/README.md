@@ -1,11 +1,11 @@
 # Test Suite
-This is the first idea of trying to programm a test suite where we can check the robustness of a pFBA formulation. We use a standard dFBA process: for now this is my D-lactic acid producing fed-batch process.
+This is the first idea of trying to programm a test suite where we can check the robustness of a dFBA formulation. We use a standard dFBA process: for now this is my D-lactic acid producing fed-batch process.
 
 We then change a couple of hyperparameters and run the IpOpt optimizer and see
 * how long the optimization takes,
 * if a local optimum is found,
 * what the optimum value is,
-* and ??? (I forgot).
+* and the size of the complementary slackness.
 
 With this information we can then try to rank the implementations depending on their accuracy, but also speed and usefulness while changing the bioprocess.
 
