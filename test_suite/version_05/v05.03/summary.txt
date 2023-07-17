@@ -1,0 +1,32 @@
+#----Termination Status
+NUMERICAL_ERROR
+
+Objective Value
+-558.4009646493234
+
+Sum of growth rates
+9.430649584116946
+
+Final pDNA amount
+159.65726295717673
+
+Normalized Complementary Slackness
+-581.6345249867485
+
+Complementary Slackness per CTRL interval
+[[-581.92, -581.94, -581.95], [-581.97, -581.97, -581.99], [-581.97, -581.98, -581.98], [-581.57, -581.43, -581.82], [-580.02, -580.83, -581.18]]
+
+S0
+29.999999829866727
+
+Control Intervals
+[1.55, 1.38, 1.4, 1.18, 1.37]
+
+Process End
+6.87
+
+Feed Rates
+[[0.004, 0.008, 0.011], [0.013, 0.021, 0.03], [0.035, 0.056, 0.08], [0.09, 0.132, 0.176], [0.146, 0.185, 0.219]]
+
+Time Elapsed
+234.09312476

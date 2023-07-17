@@ -22,6 +22,7 @@ With this information we can then try to rank the implementations depending on t
 | version_02 | FBA at every CP, CS in the OF
 | version_03 | pFBA at every FE, CS in the OF
 | version_04 | FBA at every FE, CS in the OF
+| version_05 | cp of v01, no lb on N_G
 
 
 # List of Abbreviations
@@ -32,3 +33,5 @@ With this information we can then try to rank the implementations depending on t
 |CS | complementary slackness |
 |OF | objective function |
 |FE | finite element
+|lb | lower bound
+|N_G | mol of glucose in reactor
