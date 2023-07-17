@@ -1,0 +1,13 @@
+@v1.8) pkg> status
+Status `~/.julia/environments/v1.8/Project.toml`
+⌃ [336ed68f] CSV v0.10.9
+  [a93c6f00] DataFrames v1.5.0
+  [39dd38d3] Dierckx v0.5.3
+  [f6369f11] ForwardDiff v0.10.35
+  [7073ff75] IJulia v1.24.0
+⌃ [b6b21f68] Ipopt v1.2.0
+  [033835bb] JLD2 v0.4.31
+⌃ [4076af6c] JuMP v1.9.0
+⌃ [91a5bcdd] Plots v1.38.8
+  [9ff05d80] TickTock v1.2.0
+Info Packages marked with ⌃ have new versions available and may be upgradable.
